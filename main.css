@@ -26,7 +26,6 @@
 }
 
 .dropdown-menu li a {
-  
   color: #000;
   padding: 6px 20px;
   font-weight: 300;
@@ -67,7 +66,7 @@
     padding: 5px;
 }
 
-.prevChamps h2{
+.prevTitle{
     text-align: center;
     background-color: #ff5555;
     color: #ffffff;
