@@ -74,7 +74,7 @@
     margin-top: 10px;
 }
 
-.prevTitle{
+.prevTitle h2{
     text-align: center;
     background-color: #ff5555;
     color: #ffffff;
@@ -85,11 +85,11 @@
     padding-bottom: 20px;
 }
 
-.bracket .row .0 p{
+.bracket row 0 p{
     text-align: center;
 }
 
-.bracketTitle {
+.bracketTitle h2{
     text-align: center;
     background-color: #ff5555;
     color: #ffffff;
