@@ -85,6 +85,10 @@
     padding-bottom: 20px;
 }
 
+.bracket .row .0 p{
+    text-align: center;
+}
+
 .bracketTitle {
     text-align: center;
     background-color: #ff5555;
