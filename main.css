@@ -70,6 +70,10 @@
     text-align: center;
 }
 
+.prevChamps row{
+    padding-top: 5px;
+}
+
 .prevTitle{
     text-align: center;
     background-color: #ff5555;
